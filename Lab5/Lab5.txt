@@ -1,0 +1,6 @@
+3.1 /usr/bin/ls
+3.2 /usr/bin/ps
+3.3 /usr/bin/whoami  
+3.4 type is a shell builtin
+3.5 cd is a shell builtin
+3.6 ไม่
