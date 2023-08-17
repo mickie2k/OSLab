@@ -1,3 +1,12 @@
+#TANAKORN POOKONGMEK 65050354
+1.1 ไม่
+1.2 1
+
+2.1 ใช่
+2.2 1
+2.3 เพิ่ม exit(0) หลัง exec
+2.4 นำ C ไปไว้หลัง wait(NULL)
+
 3.1 /usr/bin/ls
 3.2 /usr/bin/ps
 3.3 /usr/bin/whoami  
